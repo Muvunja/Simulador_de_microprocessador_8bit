@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Projectos\microprocessador\microprocessador\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Projectos\microprocessador\microprocessador\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Projectos\microprocessador\microprocessador\Debug\microprocessador.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>microprocessador.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>microprocessador.map</FILE>
+  <FILE>microprocessador.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\Projectos\microprocessador\microprocessador\main.asm</FILE><LINE>27</LINE></main>
+  <fetch_decode_execute><FILE>D:\Projectos\microprocessador\microprocessador\main.asm</FILE><LINE>32</LINE></fetch_decode_execute>
+  <LOAD_FUNC><FILE>D:\Projectos\microprocessador\microprocessador\main.asm</FILE><LINE>50</LINE></LOAD_FUNC>
+  <STORE_FUNC><FILE>D:\Projectos\microprocessador\microprocessador\main.asm</FILE><LINE>58</LINE></STORE_FUNC>
+  <ADD_FUNC><FILE>D:\Projectos\microprocessador\microprocessador\main.asm</FILE><LINE>66</LINE></ADD_FUNC>
+  <SUB_FUNC><FILE>D:\Projectos\microprocessador\microprocessador\main.asm</FILE><LINE>72</LINE></SUB_FUNC>
+  <JMP_FUNC><FILE>D:\Projectos\microprocessador\microprocessador\main.asm</FILE><LINE>78</LINE></JMP_FUNC>
+  <NOP_FUNC><FILE>D:\Projectos\microprocessador\microprocessador\main.asm</FILE><LINE>85</LINE></NOP_FUNC>
+ </LABELS>
+</ASSEMBLER_INFO>
